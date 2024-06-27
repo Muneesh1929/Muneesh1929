@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'm currently working on a blockchain project to create a full stack Trading Bot using Node.js , Nextjs, CSS , MongoDB and Javascript<br><br>i'm currently learning Blockchain and about to complete it in May end (starting day was in september 2023)<br><br>i'm also a Artificial Engineer also got hired by Company stempedia as AI engineer<br><br>i have completed my B.tech in computer science where i scored a cgpa of 7.2<br><br>
+I have Completed my Btech in 2023 , Ihave done training in AI from Ducat Noida and now completed my Blockchain course .
 
 
 ## 🌐 Socials:
